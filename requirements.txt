@@ -1,0 +1,5 @@
+gunicorn
+Flask==2.2.3
+Pillow==9.4.0
+h5py
+tensorflow-cpu==2.11.0
